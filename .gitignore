@@ -1,0 +1,9 @@
+#ignore folders
+/__pycache__/*
+/controls/__pycache__/*
+/logs/__pycache__/*
+/settings/__pycache__/*
+/utils/__pycache__/*
+#/venv/*
+#ignore files
+/settings/superTTS.sh

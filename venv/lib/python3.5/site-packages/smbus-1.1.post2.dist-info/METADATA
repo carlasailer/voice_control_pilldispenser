@@ -1,0 +1,13 @@
+Metadata-Version: 2.0
+Name: smbus
+Version: 1.1.post2
+Summary: Python bindings for Linux SMBus access through i2c-dev
+Home-page: https://i2c.wiki.kernel.org/index.php/I2C_Tools
+Author: Mark M. Hoffman
+Author-email: linux-i2c@vger.kernel.org
+License: GPLv2
+Platform: UNKNOWN
+
+UNKNOWN
+
+
