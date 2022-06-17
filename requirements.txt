@@ -16,7 +16,7 @@ gpiozero==1.5.1
 greenlet==0.4.15
 mysql-connector-python==8.0.17
 mysqlclient==1.4.2.post1
-numpy==1.12.1
+numpy==1.21.0
 protobuf==3.9.0
 PyAudio==0.2.11
 PyMySQL==0.9.3
